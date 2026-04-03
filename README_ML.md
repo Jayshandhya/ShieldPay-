@@ -1,7 +1,6 @@
 # ML Backend Documentation
 
-## Architecture Diagram
-![Architecture Diagram](link_to_diagram)
+
 
 ## ML Models
 
